@@ -7,7 +7,7 @@
    1-) ouvrez votre Visual Studio Code 
    2-) téléchargez ce thème: monokai vibrant 
    3-) Allez dans les settings  et écrivez json 
-   4-) Cliquez sur 'Modifier dans les paramètres.json' 
+   4-) Cliquez sur 'Modifier dans les settings.json' 
    5-) Copiez et collez les settings  associés 
 ☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆
 ``` 
