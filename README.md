@@ -11,10 +11,11 @@
    5-) Copiez et collez les settings  associés 
 ☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆
 ``` 
-### `Aperçue `
+### `Aperçue   `
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Phantom-19/img/main/up/Vscode-theme.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/Phantom-19/img/main/up/Vscode-theme.png" width="900"/>
 </p>
+
 ```       
         @@@@@@           @@@@@@
       @@@@@@@@@@       @@@@@@@@@@
