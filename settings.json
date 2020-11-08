@@ -1,0 +1,218 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 18,
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "liveSassCompile.settings.autoprefix": [],
+    "liveSassCompile.settings.excludeList": [
+
+        "**/node_modules/**",
+        ".vscode/**"
+    ],
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": null
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.includeItems": [],
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.https": {
+    
+    },
+    "liveServer.settings.ignoreFiles": [
+    
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.colorTheme": "Monokai Vibrant",
+    "html.customData": [
+        "monokai"
+    ],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+         {
+          "scope": [
+           "entity.other.attribute-name", 
+          ],
+          "settings": {
+           "foreground": "#0de0e7",
+          }
+         },  
+         {
+          "scope": [
+           "entity.name.tag", 
+          ],
+          "settings": {
+           "foreground": "#00ff0d",
+          }
+         },  
+         {
+          "scope": [
+           "punctuation.separator", 
+          ],
+          "settings": {
+           "foreground": "#ff0037",
+          }
+         },  
+         {
+          "scope": [
+           "storage.type.function.js", 
+          ],
+          "settings": {
+           "foreground": "#00ffb3",
+          }
+         },  
+         {
+          "scope": [
+           "entity.name.function", 
+          ],
+          "settings": {
+           "foreground": "#f30538",
+          }
+         },  
+         {
+           "scope": [
+            "variable.parameter.js", 
+           ],
+           "settings": {
+            "foreground": "#ff9a02",
+           }
+         },  
+         {
+          "scope": [
+           "variable.language.this.js", 
+          ],
+          "settings": {
+           "foreground": "#F92672",
+          }
+         },  
+         {
+          "scope": [
+           "variable.other.property.js", 
+          ],
+          "settings": {
+           "foreground": "#ff9900",
+          }
+         },  
+         {
+          "scope": [
+           "keyword.other.unit.px.css", 
+          ],
+          "settings": {
+           "foreground": "#ff006a",
+          }
+         },  
+         
+         
+         {
+          "scope": [
+           "keyword", 
+          ],
+          "settings": {
+           "foreground": "#ff006a",
+           "fontStyle": "italic"
+          }
+         },  
+         {
+          "scope": [
+           "entity.name.type.class.js", 
+          ],
+          "settings": {
+           "foreground": "#ffffff",
+           "fontStyle": "italic"
+          }
+         },  
+         {
+          "scope": [
+           "storage.type.class.js", 
+          ],
+          "settings": {
+           "foreground": "#00ff6a",
+           "fontStyle": "italic"
+          }
+         },  
+         {
+          "scope": [
+           "keyword.operator", 
+          ],
+          "settings": {
+           "foreground": "#ff006a",
+           "fontStyle": "italic"
+          }
+         },  
+         {
+          "scope": [
+           "support.type.property-name.css", 
+          ],
+          "settings": {
+           "foreground": "#00ffbf",   
+          }
+         },  
+         
+        ]
+       },
+
+    /* "json.schemas": [
+     {
+         "fileMatch": [
+             "/myfile"
+         ],
+         "url": "schemaURL"
+     }
+     ],*/
+    "workbench.colorCustomizations": {
+    //     // "list.inactiveSelectionBackground": "#C5DEF0",
+    //     // "sideBar.background": "#1d1d1d",
+    //     // "sideBar.foreground": "#000000",
+    //     // "editor.background": "#252525",
+    //     // "editor.foreground": "#000000",
+    //     // "sideBarSectionHeader.background": "#CAC9C9",
+    //     // "sideBarSectionHeader.foreground": "#ff0606",
+    //     // "activityBar.border": "#1f1f1f",
+    //     // "statusBar.background": "#8b04da",
+    //     // "scrollbarSlider.activeBackground": "#77D4CB",
+    //     // "scrollbarSlider.hoverBackground": "#8CE6DA",
+    //     // "badge.background": "#65ff86"
+    }
+    "launch": {
+    }
+}
+
+// ceux ci est le settinfgs par defaut
+/*{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "csharp.suppressDotnetInstallWarning": true,
+    "files.associations": {
+        ".html": ""
+    },
+    "python.languageServer": "Microsoft",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "python.pythonPath": "C:\\Users\\ane_a\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "files.autoSave": "afterDelay",
+    "remote.extensionKind": {
+
+        "pub.name": [
+            "ui"
+        ]
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "css.fileExtensions": [
+
+        "css",
+        "scss"
+    ],
+    "workbench.settings.useSplitJSON": true,
+    "json.schemas": [
+    
+    ]
+}*/
